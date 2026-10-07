@@ -1,0 +1,15 @@
+CAREKART provides a chatbot-based interface where users can ask questions about healthcare treatment prices and hospitals.
+
+For example:
+
+"What is the price of an MRI scan?"
+
+CAREKART searches its sample hospital dataset and presents the available hospitals, prices, hospital type, ratings, and locations.
+
+Users can also ask about specific hospitals such as:
+
+"Tell me about AIIMS"
+
+or:
+
+"Compare knee replacement prices."
