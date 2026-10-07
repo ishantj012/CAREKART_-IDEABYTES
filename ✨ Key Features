@@ -1,0 +1,90 @@
+💬 1. Conversational Search
+
+Users can type natural-language questions related to:
+
+Treatment prices
+Hospitals
+Procedures
+Affordable options
+Hospital comparisons
+💰 2. Treatment Price Comparison
+
+CAREKART compares sample treatment prices across multiple hospitals.
+
+Examples include:
+
+Heart Surgery
+MRI Scan
+CT Scan
+Knee Replacement
+Cataract Surgery
+Dental Cleaning
+Endoscopy
+Liver Transplant
+Brain Surgery
+General Surgery
+🏥 3. Hospital Information
+
+The prototype contains sample information about hospitals including:
+
+Hospital name
+Hospital type
+Location
+Rating
+Specialties
+Treatment prices
+🔎 4. Search Filters
+
+Users can filter results using:
+
+Treatment Type
+Cardiac Surgery
+Orthopedic
+Neurology
+Oncology
+Dental
+Diagnostic Tests
+Price Range
+Under ₹10,000
+₹10,000 – ₹50,000
+₹50,000 – ₹2,00,000
+Above ₹2,00,000
+Hospital Type
+Government
+Private
+Semi-Private
+📊 5. Price-Based Ranking
+
+When treatment results are found, CAREKART sorts them by price so users can easily identify lower-cost options.
+
+Example:
+
+Knee Replacement
+
+1. Safdarjung Hospital — ₹75,000
+2. AIIMS — ₹80,000
+3. Sir Ganga Ram Hospital — ₹1,50,000
+4. Max Super Speciality Hospital — ₹2,00,000
+5. Apollo Hospital Delhi — ₹2,20,000
+6. Fortis Hospital Vasant Kunj — ₹2,50,000
+⭐ 6. Hospital Ratings
+
+Each hospital in the prototype includes a sample rating, allowing users to consider both:
+
+Price + Rating
+
+instead of looking at price alone.
+
+📍 7. Location Information
+
+The prototype provides hospital locations within New Delhi.
+
+Examples include:
+
+Ansari Nagar
+Vasant Kunj
+Sarita Vihar
+Rajinder Nagar
+Saket
+Safdarjung Enclave
+🏥 Hospitals Included in the Prototype
