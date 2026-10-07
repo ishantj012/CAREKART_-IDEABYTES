@@ -1,0 +1,32 @@
+The current prototype uses rule-based natural-language query processing.
+
+The chatbot identifies keywords in the user's question and maps them to relevant treatments or hospitals.
+
+For example:
+
+User:
+"What is the cost of an MRI?"
+
+        ↓
+
+Keyword detected:
+"MRI"
+
+        ↓
+
+Treatment:
+MRI Scan
+
+        ↓
+
+Search hospital dataset
+
+        ↓
+
+Sort results by price
+
+        ↓
+
+Display comparison
+
+Similarly, hospital names such as AIIMS, Apollo, Fortis and Max can be identified from user queries.
